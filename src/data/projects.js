@@ -1,13 +1,13 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'AskMyPDFD',
+    title: 'AskMyPDF',
     link: 'https://pdf-qan-ui.vercel.app/',
     subtitle: 'ReactJS, NodeJS, MongoDB, Gemini AI',
     image: '/images/projects/askmypdf.png',
     date: '2025-03-27',
     desc:
-      'AskMyPDFDeveloped a PDF upload and query system powered by Gemini AI for intelligent document interaction '
+      'Developed a PDF upload and query system powered by Gemini AI for intelligent document interaction '
       + ' Implemented a user-friendly interface for seamless PDF management and question-answering.'
       + ' Ensured efficient backend processing using Node.js, Express.js, and MongoDB. '
       + ' Enhanced AI-based responses and data security to provide accurate and secure document analysis',
@@ -44,6 +44,28 @@ const data = [
       'Created an Apple Vision Pro Clone using HTML, CSS, JavaScript, and GSAP for animations. '
       + ' This project showcases a highly interactive UI, replicating the look and feel of Apple Vision Pro while incorporating smooth animations for an immersive user experience. '
       + 'The clone emphasizes responsive design and dynamic transitions, providing users with a seamless and visually appealing interface.',
+  },
+  {
+    title: 'Hotel Odisej',
+    subtitle: 'HTML CSS JS GSAP',
+    link: 'https://hotel-odisej-alpha.vercel.app/',
+    image: '/images/projects/hotel.png',
+    date: '2024-05-15',
+    desc:
+      'Created an Hotel Website using HTML, CSS, JavaScript, and GSAP for animations. '
+      + ' This project showcases a highly interactive UI, replicating the look and feel of Hotel Odisej while incorporating smooth animations for an immersive user experience. '
+      + 'The clone emphasizes responsive design and dynamic transitions, providing users with a seamless and visually appealing interface.',
+  },
+  {
+    title: 'Localcraft',
+    subtitle: 'HTML CSS JS GSAP',
+    link: 'https://localcraft.onrender.com/',
+    image: '/images/projects/locarcraft.png',
+    date: '2024-07-28',
+    desc:
+      'Developed a fully responsive e-commerce website using HTML, CSS, and JavaScript, integrating smooth animations with GSAP to enhance user experience. '
+      + 'The project features an interactive UI, a seamless sign-in page, and dynamic transitions for an engaging shopping experience. '
+      + ' The design prioritizes responsiveness and modern aesthetics, ensuring a visually appealing and user-friendly interface.',
   },
 ];
 

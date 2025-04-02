@@ -35,6 +35,11 @@ const data = [
     label: 'Current city',
     value: 'Bhopal, Mp',
   },
+  {
+    key: 'location',
+    label: 'Language',
+    value: 'Hindi, English',
+  },
 ];
 
 export default data;
