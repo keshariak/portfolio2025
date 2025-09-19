@@ -33,7 +33,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'Banglore, KA',
+    value: 'Bangluru, KA',
   },
   {
     key: 'location',
